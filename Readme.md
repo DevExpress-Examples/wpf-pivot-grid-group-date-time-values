@@ -13,7 +13,7 @@ This example shows how to group date-time values.
 
 ## Documentation
 
-- [Grouping in Pivot Grid](https://docs.devexpress.com/AspNet/7268/components/pivot-grid/data-shaping/grouping)
+- [Grouping in Pivot Grid](https://docs.devexpress.com/WPF/8061/controls-and-libraries/pivot-grid/data-shaping/grouping)
 
 
 ## More Examples
