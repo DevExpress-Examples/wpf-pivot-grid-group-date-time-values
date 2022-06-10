@@ -6,6 +6,8 @@
 
 This example shows how to group date-time values.
 
+In the example, the [PivotGridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl) contains three [PivotGridField](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField) fields (*fieldYear*, *fieldQuarter* and *fieldMonth*) located in the Row Area. Each of the field is bound to the "OrderDate" data field. The *fieldYear* pivot grid field's values are grouped by years, the *fieldQuarter* field's values are grouped by quarters, and the *fieldMonth* pivot grid field's values are grouped by months. To specify the grouping mode, use the binding’s [DataSourceColumnBindingBase.GroupInterval](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.DataSourceColumnBinding.GroupInterval) property.
+
 ## Files to Look At
 
 - [MainWindow.xaml](./CS/HowToGroupDateTime/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToGroupDateTime/MainWindow.xaml))
