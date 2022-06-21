@@ -9,11 +9,18 @@
 * [MainWindow.xaml](./CS/HowToGroupDateTime/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToGroupDateTime/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToGroupDateTime/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToGroupDateTime/MainWindow.xaml.vb))
 <!-- default file list end -->
-# How to: Group Date-Time Values
+# Pivot Grid for WPF - How to Group Date-Time Values
+
+This example shows how to group date-time values.
+
+## Documentaton
+
+[Grouping](https://docs.devexpress.com/WPF/8061/controls-and-libraries/pivot-grid/data-shaping/grouping)
+
+## More Examples
+
+[Pivot Grid for WPF - Custom Group Intervals]([https://github.com/DevExpress-Examples/how-to-group-date-time-values-e2131](https://github.com/DevExpress-Examples/how-to-implement-custom-group-intervals-e2132))
 
 
-<p>This example shows how to group date-time values.</p>
-
-<br/>
 
 
