@@ -19,7 +19,7 @@ This example shows how to group date-time values.
 
 ## More Examples
 
-[Pivot Grid for WPF - Custom Group Intervals]([https://github.com/DevExpress-Examples/how-to-group-date-time-values-e2131](https://github.com/DevExpress-Examples/how-to-implement-custom-group-intervals-e2132))
+[Pivot Grid for WPF - Custom Group Intervals](https://github.com/DevExpress-Examples/how-to-implement-custom-group-intervals-e2132)
 
 
 
