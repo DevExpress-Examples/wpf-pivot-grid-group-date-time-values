@@ -7,6 +7,8 @@
 
 This example shows how to group date-time values.
 
+![Pivot Grid](./images/pivotgrid.png)
+
 Multiple Pivot Grid fields are bound to the same data field - OrderDate. The [DataSourceColumnBindingBase.GroupInterval](https://docs.devexpress.com/CoreLibraries/DevExpress.PivotGrid.DataBinding.DataSourceColumnBindingBase.GroupInterval) property is used to create a Year → Quarter → Month hierarchy.  
 
 ## Files to Look At:
@@ -14,7 +16,7 @@ Multiple Pivot Grid fields are bound to the same data field - OrderDate. The [Da
 * [MainWindow.xaml](./CS/HowToGroupDateTime/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToGroupDateTime/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToGroupDateTime/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToGroupDateTime/MainWindow.xaml.vb))
 
-## Documentaton
+## Documentation
 
 [Grouping](https://docs.devexpress.com/WPF/8061/controls-and-libraries/pivot-grid/data-shaping/grouping)
 
